@@ -3,7 +3,8 @@
 !!! info
     This guide is authored by Voxel Tycoon community member **scailman**.
 
-	## Introduction
+
+## Introduction
 
 	In this guide you will learn how to create a new industry and all the elements that make it up. It's not a complex task but it's necessary to take into account many elements that are related to each other.
 	
